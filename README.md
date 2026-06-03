@@ -19,14 +19,12 @@ Desenvolvedor de Software e Profissional de Automação Industrial com foco na c
 
 ## 📈 Estatísticas do GitHub
 
-> **Nota:** Substitua `SEU_USUARIO` pelo seu *username* real do GitHub nos links abaixo para renderizar os gráficos.
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark" alt="Estatísticas do Gustavo" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark" alt="Linguagens mais utilizadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OGustav-o&show_icons=true&theme=dark" alt="Estatísticas do Gustavo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OGustav-o&layout=compact&theme=dark" alt="Linguagens mais utilizadas" />
 </div>
 
 ## 📫 Contato
 
-* **LinkedIn:** [linkedin.com/in/seu-usuario-aqui](https://linkedin.com/in/seu-usuario-aqui)
-* **E-mail:** [seu-email@dominio.com](mailto:seu-email@dominio.com)
+* **LinkedIn:** [linkedin.com/in/seu-usuario-aqui](https://www.linkedin.com/in/gustavo777/)
+* **E-mail:** [seu-email@dominio.com](gs180891@gmail.com)
