@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, eu sou Gustavo Melo 👋
 
-<!--
-**OGustav-o/OGustav-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor de Software e Profissional de Automação Industrial com foco na construção de sistemas eficientes, arquiteturas de back-end e integração entre software e hardware.
 
-Here are some ideas to get you started:
+## 💻 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Desenvolvedor com foco em Back-end (Java, Node.js, Python).
+* Sólida experiência técnica em Automação Industrial (Siemens S7-300, S7-400, S7-1500, TIA Portal).
+* Experiência prática na construção de servidores, APIs e sistemas financeiros/fintech.
+* Familiaridade com conteinerização, versionamento e ambientes de desenvolvimento (Docker, Git, Linux/WSL).
+* Sempre em busca de aprimoramento em arquitetura de software, alta performance e segurança.
+
+## 🛠️ Tecnologias e Ferramentas
+
+* **Linguagens:** Java, Python, JavaScript/Node.js, STL/AWL.
+* **Automação Industrial:** TIA Portal, CLPs Siemens.
+* **Infraestrutura & Ferramentas:** Git, Docker, WSL, Express.
+* **Áreas de Foco:** Back-end, Integração de Sistemas, Soluções Escaláveis.
+
+## 📈 Estatísticas do GitHub
+
+> **Nota:** Substitua `SEU_USUARIO` pelo seu *username* real do GitHub nos links abaixo para renderizar os gráficos.
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark" alt="Estatísticas do Gustavo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark" alt="Linguagens mais utilizadas" />
+</div>
+
+## 📫 Contato
+
+* **LinkedIn:** [linkedin.com/in/seu-usuario-aqui](https://linkedin.com/in/seu-usuario-aqui)
+* **E-mail:** [seu-email@dominio.com](mailto:seu-email@dominio.com)
